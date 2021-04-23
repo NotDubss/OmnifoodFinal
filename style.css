@@ -238,7 +238,7 @@ a:active {
 }
 
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(../img/Hero.jpg); /* .. dot to see the image | linear-gradient to shadow the image */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/Hero.jpg); /* .. dot to see the image | linear-gradient to shadow the image */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -453,7 +453,7 @@ header {
 /* ---------------------------------------------------------------- */
 
 .section-testimonials {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/back-customers.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers.jpg);
     background-size: cover;
     color: #fff;
     background-attachment: fixed; /* This shit is magic */
